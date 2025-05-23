@@ -66,10 +66,13 @@ The script demonstrates the Hill Cipher's functionality through two specific exa
 ## Example 1: Encrypting "JULY" with a 2x2 Key
 •	Input Plaintext: JULY
 •	Input Key: LDIH (which forms the key matrix [[11, 3], [8, 7]])
- 
+ ![image](https://github.com/user-attachments/assets/72b67dc3-03dc-444c-9c57-fa57ddc625f9)
+
 ## Example 2: Encrypting and Decrypting "ACT" with a 3x3 Key
 •	Input Plaintext: ACT
 •	Input Key: GYBNQURPK (which forms the key matrix [[6, 24, 1], [13, 16, 10], [20, 17, 15]])
+![image](https://github.com/user-attachments/assets/2f8d6058-7366-4767-96c3-ba1d56c3654f)
+
  ________________________________________
 ## Conclusion
 This Python implementation successfully demonstrates the core principles of the Hill Cipher. It showcases how linear algebra and modular arithmetic can be applied to cryptographic problems, providing a clear example of both encryption and decryption processes. The modular design of the code enhances readability and maintainability.
